@@ -2,6 +2,8 @@
 
 A theme for Discord that brings the 2020 UI back without removing features
 
+[Its a Fork, some Feature are deleted]
+
  By default, it completely removes profile effects (like banners) and clan tags. See `addons` below to get them back!
 
 ![Preview](https://raw.githubusercontent.com/milbits/oldcord/master/.github/preview.webp)
